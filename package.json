@@ -1,0 +1,29 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "Movie Review",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Ton Andy Jessie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.24.0",
+    "mysql2": "^1.7.0",
+    "sequelize": "^4.44.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonnette/Project2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tonnette/Project2/issues"
+  },
+  "homepage": "https://github.com/Tonnette/Project2#readme"
+}
