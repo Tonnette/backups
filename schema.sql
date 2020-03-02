@@ -2,4 +2,3 @@
 DROP DATABASE IF EXISTS moviereview_db;
 -- Creates the "blogger" database --
 CREATE DATABASE moviereview_db;
-
